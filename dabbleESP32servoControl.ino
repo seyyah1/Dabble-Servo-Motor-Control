@@ -4,7 +4,7 @@
 #define CUSTOM_SETTINGS
 #define INCLUDE_GAMEPAD_MODULE
 
-// Connect servo vcc pin to 5v, gnd pin to gnd and attaches the servo on pin i/o 2 to the servo object
+// Connect servo vcc pin to 5v, gnd pin to gnd and control pin to i/o 2
 const int servoPin = 2;
 
 // Create servo object to control a servo
