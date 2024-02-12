@@ -1,1 +1,2 @@
 # Dabble-Servo-Motor-Control
+This project provides servo motor control via the Dabble mobile application using the ESP32 microcontroller board. The ESP32 device communicates with the Dabble application via Bluetooth connection and provides users with a gamepad interface. In this interface, users easily use it in their projects by choosing between digital, joystick and accelerometer modes. In this project, I choose the joystick mode to control the servo motor remotely.  Through this joystick, users can determine the angular position of the servo motor and control it remotely.
